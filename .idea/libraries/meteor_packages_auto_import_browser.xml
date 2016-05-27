@@ -20,6 +20,8 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/promise/0.6.7/web.browser/client.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/promise/0.6.7/web.browser/server.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/promise/0.6.7/web.browser/promise-tests.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-meteor-data/0.2.9/web.browser/react-meteor-data.jsx" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-meteor-data/0.2.9/web.browser/ReactMeteorData.jsx" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/allow-deny/1.0.4/web.browser/allow-deny.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/allow-deny/1.0.4/web.browser/allow-deny-tests.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/random/1.0.9/web.browser/deprecated.js" />
@@ -37,6 +39,7 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/reload/1.1.8/web.browser/deprecated.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/diff-sequence/1.0.5/web.browser/diff.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/reload/1.1.8/web.browser/reload.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/tmeasday_check-npm-versions/0.2.0/web.browser/check-npm-versions.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/modules-runtime/0.6.3/web.browser/modules-runtime.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/retry/1.0.7/web.browser/retry.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecmascript-runtime/0.2.10/web.browser/runtime-tests.js" />
@@ -87,6 +90,7 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/fastclick/1.0.11/web.browser/fastclick.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.7/web.browser/dombackend.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.7/web.browser/view.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-meteor-data/0.2.9/web.browser/createContainer.jsx" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.7/web.browser/materializer.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.8/web.browser/geojson-utils.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.7/web.browser/template.js" />
@@ -171,6 +175,8 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/promise/0.6.7/web.browser/client.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/promise/0.6.7/web.browser/server.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/promise/0.6.7/web.browser/promise-tests.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-meteor-data/0.2.9/web.browser/react-meteor-data.jsx" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-meteor-data/0.2.9/web.browser/ReactMeteorData.jsx" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/allow-deny/1.0.4/web.browser/allow-deny.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/allow-deny/1.0.4/web.browser/allow-deny-tests.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/random/1.0.9/web.browser/deprecated.js" />
@@ -188,6 +194,7 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/reload/1.1.8/web.browser/deprecated.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/diff-sequence/1.0.5/web.browser/diff.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/reload/1.1.8/web.browser/reload.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/tmeasday_check-npm-versions/0.2.0/web.browser/check-npm-versions.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/modules-runtime/0.6.3/web.browser/modules-runtime.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/retry/1.0.7/web.browser/retry.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecmascript-runtime/0.2.10/web.browser/runtime-tests.js" />
@@ -238,6 +245,7 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/fastclick/1.0.11/web.browser/fastclick.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.7/web.browser/dombackend.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.7/web.browser/view.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-meteor-data/0.2.9/web.browser/createContainer.jsx" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.7/web.browser/materializer.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.8/web.browser/geojson-utils.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.7/web.browser/template.js" />

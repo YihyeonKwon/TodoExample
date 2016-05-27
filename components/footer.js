@@ -23,7 +23,7 @@ export default class Footer extends Component {
     render() {
         return (
             <div id="footer">
-                footer 입다
+                footer
             </div>
         );
     }

@@ -22,8 +22,8 @@ export default class NavBar extends Component {
 
     render() {
         return (
-            <div id="navBar">
-                navBar 입다
+            <div id="navBar" className="navbar-container">
+                navBar
             </div>
         );
     }
